@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is my personal portfolio where I display the various projects I have created. It enables me to showcase my skills and market myself to potential companies. The portfolio is built with HTML, CS…",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axcell-0/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axcell-0/Portfolio/issues"
+  },
+  "homepage": "https://github.com/axcell-0/Portfolio#readme",
+  "devDependencies": {
+    "hint": "^7.1.9"
+  }
+}

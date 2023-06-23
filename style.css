@@ -86,6 +86,14 @@
     padding-block: 12px;
     width: 100%;
     border: 1px solid #1a2236;
+    transition: background-color 0.5s ease-out;
+  }
+
+  .Start-collaboration:hover,
+  .Start-collaboration:active {
+    background-color: #fff;
+    color: #1a2236;
+    border: 1px solid #1a2236;
   }
   
   .illustration-header {
@@ -158,6 +166,20 @@
     align-items: center;
     justify-content: space-around;
   }
+
+  .project-button:hover,
+  .project-button:active  {
+    background-color: #fff;
+    color: #1a2236;
+    border: 1px solid #1a2236;
+  }
+
+  .arrow:hover,
+  .arrow:active {
+    background-color: #1a2236;
+    color: #fff;
+    border: 1px solid #1a2236;
+  }
   
   .about-container {
     display: flex;
@@ -189,6 +211,13 @@
     text-align: center;
     padding: 14px;
     border: solid 1px;
+  }
+
+  .rectangle_19:hover,
+  .rectangle_19:active {
+    background-color: #fff;
+    color: #1a2236;
+    border: 1px solid #1a2236;
   }
   
   .skills-lists {
